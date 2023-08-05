@@ -1,5 +1,5 @@
 mkdir zero $$ cd zeroday
 vi README.md
-gi add .
+git add .
 git commit -m "My first commit"
-push
+git push
